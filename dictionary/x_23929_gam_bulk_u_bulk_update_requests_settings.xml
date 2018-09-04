@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Bulk Update Requests Settings" max_length="40" name="x_23929_gam_bulk_u_bulk_update_requests_settings" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element choice="1" label="Environment" max_length="20" name="environment" type="choice">
+            <choice>
+                <element label="Development" sequence="10" value="Development"/>
+                <element label="Test" sequence="20" value="Test"/>
+                <element label="Production" sequence="30" value="Production"/>
+            </choice>
+        </element>
+        <element label="URL" mandatory="true" max_length="200" name="url" type="url"/>
+    </element>
+</database>

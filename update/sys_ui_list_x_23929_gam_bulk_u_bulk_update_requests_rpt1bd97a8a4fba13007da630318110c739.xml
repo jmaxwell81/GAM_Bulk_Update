@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_23929_gam_bulk_u_bulk_update_requests" version="2" view="RPT1bd97a8a4fba13007da630318110c739">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_23929_gam_bulk_u_bulk_update_requests" element="NULL" name="x_23929_gam_bulk_u_bulk_update_requests" parent="NULL" relationship="NULL" sys_domain="global" view="1bd97a8a4fba13007da630318110c73c">93d97a8a4fba13007da630318110c73d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_id>1bd97a8a4fba13007da630318110c73d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="x_23929_gam_bulk_u_bulk_update_requests" element="NULL" name="x_23929_gam_bulk_u_bulk_update_requests" parent="NULL" relationship="NULL" sys_domain="global" view="1bd97a8a4fba13007da630318110c73c">93d97a8a4fba13007da630318110c73d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_id>9bd97a8a4fba13007da630318110c73d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignee</element>
+            <list_id display_value="x_23929_gam_bulk_u_bulk_update_requests" element="NULL" name="x_23929_gam_bulk_u_bulk_update_requests" parent="NULL" relationship="NULL" sys_domain="global" view="1bd97a8a4fba13007da630318110c73c">93d97a8a4fba13007da630318110c73d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_id>1fd97a8a4fba13007da630318110c73d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>environment</element>
+            <list_id display_value="x_23929_gam_bulk_u_bulk_update_requests" element="NULL" name="x_23929_gam_bulk_u_bulk_update_requests" parent="NULL" relationship="NULL" sys_domain="global" view="1bd97a8a4fba13007da630318110c73c">93d97a8a4fba13007da630318110c73d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_id>9fd97a8a4fba13007da630318110c73d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requester</element>
+            <list_id display_value="x_23929_gam_bulk_u_bulk_update_requests" element="NULL" name="x_23929_gam_bulk_u_bulk_update_requests" parent="NULL" relationship="NULL" sys_domain="global" view="1bd97a8a4fba13007da630318110c73c">93d97a8a4fba13007da630318110c73d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_id>13d97a8a4fba13007da630318110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>due_date</element>
+            <list_id display_value="x_23929_gam_bulk_u_bulk_update_requests" element="NULL" name="x_23929_gam_bulk_u_bulk_update_requests" parent="NULL" relationship="NULL" sys_domain="global" view="1bd97a8a4fba13007da630318110c73c">93d97a8a4fba13007da630318110c73d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_id>93d97a8a4fba13007da630318110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_23929_gam_bulk_u_bulk_update_requests" element="NULL" name="x_23929_gam_bulk_u_bulk_update_requests" parent="NULL" relationship="NULL" sys_domain="global" view="1bd97a8a4fba13007da630318110c73c">93d97a8a4fba13007da630318110c73d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_id>17d97a8a4fba13007da630318110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_23929_gam_bulk_u_bulk_update_requests</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 09:57:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93d97a8a4fba13007da630318110c73d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_23929_gam_bulk_u_bulk_update_requests</sys_name>
+            <sys_package display_value="GAM Bulk Update" source="x_23929_gam_bulk_u">4cb790914f3213007da630318110c721</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GAM Bulk Update">4cb790914f3213007da630318110c721</sys_scope>
+            <sys_update_name>sys_ui_list_x_23929_gam_bulk_u_bulk_update_requests_RPT1bd97a8a4fba13007da630318110c739</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 09:57:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt1bd97a8a4fba13007da630318110c739" name="RPT1bd97a8a4fba13007da630318110c739">1bd97a8a4fba13007da630318110c73c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

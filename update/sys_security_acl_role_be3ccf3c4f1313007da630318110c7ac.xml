@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-12 10:36:49</sys_created_on>
+        <sys_id>be3ccf3c4f1313007da630318110c7ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_23929_gam_bulk_u_bulk_update_requests_settings.x_23929_gam_bulk_u.bulk_update_requests_settings_user</sys_name>
+        <sys_package display_value="GAM Bulk Update" source="x_23929_gam_bulk_u">4cb790914f3213007da630318110c721</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GAM Bulk Update">4cb790914f3213007da630318110c721</sys_scope>
+        <sys_security_acl display_value="x_23929_gam_bulk_u_bulk_update_requests_settings">b63ccf3c4f1313007da630318110c7aa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_be3ccf3c4f1313007da630318110c7ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-12 10:36:49</sys_updated_on>
+        <sys_user_role display_value="x_23929_gam_bulk_u.bulk_update_requests_settings_user" name="x_23929_gam_bulk_u.bulk_update_requests_settings_user">263c4f3c4f1313007da630318110c792</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

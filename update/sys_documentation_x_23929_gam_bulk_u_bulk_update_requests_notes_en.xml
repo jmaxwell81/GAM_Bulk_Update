@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="notes" label="Notes" language="en" table="x_23929_gam_bulk_u_bulk_update_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <help/>
+            <hint/>
+            <label>Notes</label>
+            <language>en</language>
+            <name>x_23929_gam_bulk_u_bulk_update_requests</name>
+            <plural>Notes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-19 11:20:48</sys_created_on>
+            <sys_id>0bb9b0254f7a13007da630318110c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notes</sys_name>
+            <sys_package display_value="GAM Bulk Update" source="x_23929_gam_bulk_u">4cb790914f3213007da630318110c721</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GAM Bulk Update">4cb790914f3213007da630318110c721</sys_scope>
+            <sys_update_name>sys_documentation_x_23929_gam_bulk_u_bulk_update_requests_notes_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-19 11:20:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

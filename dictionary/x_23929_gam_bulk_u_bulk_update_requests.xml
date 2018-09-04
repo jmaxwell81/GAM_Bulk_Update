@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Bulk Update Requests" max_length="40" name="x_23929_gam_bulk_u_bulk_update_requests" type="collection">
+        <element label="Assignee" max_length="40" name="assignee" reference="sys_user" reference_qual="user_nameSTARTSWITH^EQ" reference_qual_condition="user_nameSTARTSWITH^EQ" type="reference"/>
+        <element label="Due Date" mandatory="true" max_length="40" name="due_date" type="glide_date"/>
+        <element choice="3" default="Test" label="Environment" mandatory="true" max_length="40" name="environment" type="choice">
+            <choice>
+                <element label="Development" value="Development"/>
+                <element label="Production" value="Production"/>
+                <element label="Test" value="Test"/>
+            </choice>
+        </element>
+        <element label="Notes" max_length="200" name="notes" type="journal"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Requester" max_length="40" name="requester" reference="sys_user" type="reference"/>
+        <element choice="3" default="New" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="New" sequence="10" value="New"/>
+                <element label="Validating" sequence="20" value="Validating"/>
+                <element label="Ready to Load" sequence="30" value="Ready to Load"/>
+                <element label="Loading" sequence="40" value="Loading"/>
+                <element label="Under Repair" sequence="50" value="Under Repair"/>
+                <element label="Closed - Complete" sequence="60" value="Closed - Complete"/>
+                <element label="Closed - Unsuccessful" sequence="70" value="Closed - Unsuccessful"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="EUC Hardware" value="EUC Hardware"/>
+                <element label="Server Hardware" value="Server Hardware"/>
+            </choice>
+        </element>
+        <element label="Verified" max_length="40" name="verified" type="boolean"/>
+    </element>
+</database>
